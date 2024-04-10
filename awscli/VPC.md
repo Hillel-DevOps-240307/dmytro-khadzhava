@@ -1,0 +1,5 @@
+### Змінні:
+
+- `VPC_CIDR`: 192.168.0.0/24
+- `PUBLIC_SUBNET_CIDR`:
+- `PRIVATE_SUBNET_CIDR`:
